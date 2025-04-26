@@ -1,0 +1,22 @@
+/* style.css */
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  background: #f0f0f0;
+}
+
+.counter-container {
+  background: #fff;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  text-align: center;
+}
+
+#counter {
+  font-size: 2rem;
+  margin-top: 1rem;
+}
